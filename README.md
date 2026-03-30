@@ -13,17 +13,17 @@ Analysis of a coupon campaign to evaluate incremental spend and ROI
 3. Methodology  
    The analysis was conducted in the following steps:  
 
-   1. Customer Segmentation:  
+   1) Customer Segmentation:  
       - Users were divided into Control and Test groups  
       - Test group was further split into Redeemers and Non-Redeemers  
-   2. Spend Analysis:  
+   2) Spend Analysis:  
       - Weekly spending trends were analyzed  
       - Average spend per user was calculated for both groups  
-   3. Incremental Analysis:  
+   3) Incremental Analysis:  
       - Incremental spend per user was calculated as: Test average spend - Control average spend  
       - Uplift percentage was computed  
       - Total incremental revenue was estimated, based on the Test group size  
-   4. ROI Calculation:  
+   4) ROI Calculation:  
       - Revenue = Incremental spend x Take Rate (10%)  
       - Cost Coupon value x Number of redeemers  
       - ROI = (Revenue - Cost) / Cost  
