@@ -10,7 +10,7 @@ Analysis of a coupon campaign to evaluate incremental spend and ROI
    - Customer segmentation into Control and Test groups
    - Identification of coupon redeemers within the T est group
 
-3. Methodology
+3. Methodology 
    The analysis was conducted in the following steps:
    1. Customer Segmentation:
       -Users were divided into Control and Test groups
