@@ -59,7 +59,7 @@ Key calculations:
 - Cost = Coupon Value × Redeemers  
 - ROI = (Revenue - Cost) / Cost  
 
-![Revenue vs Cost](visuals/Dashboard_2.png)
+![Revenue vs Cost](visuals/Revenue_vs_Cost.png)
 
 ---
 
